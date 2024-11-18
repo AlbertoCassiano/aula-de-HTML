@@ -1,0 +1,59 @@
+#nome {
+color: black;
+width: 354px;
+height: 50px;
+top: 386px;
+left: 60px;
+
+}
+#Descrição {
+color: black;
+font-weight: bold;
+font-size: 24px;
+width: 600px;
+height: 72px;
+top: 459px;
+left: 61px;
+font-weight: 400;
+size: 30px;
+line-height: 36.31px;
+margin-top: 10px;
+
+}
+.categorias {
+color: blue;
+font-size: 24px;
+background-color: black;
+}
+.imagens {
+   width: 235px;
+   height: 207px;
+   margin-left: 8px;
+   margin-top: 8px;
+}
+#imagemCabeçalho {
+    width: 100%;
+    height: 358px;
+}
+#imagenPerfil {
+    width: 282px;
+    height: 269px;
+    border-radius: 50%;
+    margin-left: 150px;
+    margin-top: 30px;
+    border: 10px solid black;
+    box-shadow: 10px 10px 15px grey;
+}
+#seção {
+    margin-left: 20px;
+    display: flex;
+}
+#rodape {
+    background-color: black;
+    color: white;
+    font-size: 30px;
+    width: 1400px;
+    margin-top: 150px;
+    height: 135px;
+    line-height: 140px;
+}
